@@ -1,7 +1,7 @@
 # OoooWeeee
 
 <p align="center">
-	<img src="logo.png" width="200" height="200" />
+	<img src="logo.jped" width="200" height="200" />
 </p>
 
 #### Programming using phrases Mr.PoopyButHole Whould Say
@@ -21,6 +21,7 @@ wee oee eee
 ```
 ###### Output
 ```7```
+
 [More Examples...](https://github.com/omkarjc27/OooWee/Examples)
 
 
