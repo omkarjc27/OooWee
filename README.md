@@ -1,7 +1,7 @@
 # OoooWeeee
 
 <p align="center">
-	<img src="logo.jpeg" />
+	<img src="logo.png" />
 </p>
 
 #### Programming using phrases Mr.PoopyButHole Whould Say
