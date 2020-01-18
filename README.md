@@ -29,6 +29,10 @@ wee oee eee
 To install, download the repo using:```$ git clone https://github.com/omkarjc27/OooWee```<br>
 Add To Path using:```$ export PATH=$PATH:/path/to/OooWee```
 
+## Usage
+``` $ Ooo filename.Wee```
+
+
 ## Syntax
 | Command 	| What it does															|
 | ---------	| --------------------------------------------------------------------- |
